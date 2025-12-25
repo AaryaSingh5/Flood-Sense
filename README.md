@@ -30,13 +30,13 @@ Forecasts and compares future flood risk trends using return periods, drainage, 
 
 Python
 
-Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Plotly)
+Data Analysis & Visualization
 
 GIS & Spatial Analysis (Geopandas, Folium)
 
 Statistical Modeling & Forecasting
 
-Dashboard Development (Dash / Streamlit)
+Dashboard Development (Power BI)
 
 ✅ Conclusion
 
